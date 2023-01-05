@@ -1,0 +1,3 @@
+﻿  Sender.cpp
+D:\proga\laba_4\laba_4\message.h(18,33): warning C4244: =: преобразование "std::streamoff" в "long", возможна потеря данных
+  sender.vcxproj -> D:\proga\laba_4\x64\Debug\sender.exe
